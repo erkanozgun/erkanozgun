@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-  
   <h1>Merhaba, Ben Erkan! 👋</h1>
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer+(.NET);Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
@@ -19,15 +17,19 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=erkanozgun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="erkanozgun trophies" />
+  </a>
+</div>
+<br>
+
+<div align="center">
   <h3>🛠️ Teknoloji Yığınım</h3>
-  
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
   <br><br>
-  
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -39,9 +41,7 @@
 ---
 
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=erkanozgun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="erkanozgun stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanozgun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,scss,javascript" height="180" alt="erkanozgun languages" />
 </div>
 
@@ -54,7 +54,15 @@
 
 <div align="center">
   <p>🤝 <b>Benimle İletişime Geçin</b></p>
-  <a href="mailto:seninemailadresin@gmail.com">
+  
+  <a href="mailto:erkanzgun@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/erkanozgun/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=erkanozgun&label=Profil+Goruntulenmesi&color=0e75b6&style=for-the-badge" alt="erkanozgun" />
 </div>
