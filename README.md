@@ -15,10 +15,7 @@
 </div>
 
 <br>
-<div align="center">
-  <h3>🏆 Başarımlar</h3>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark" title="Pull Shark Achievement" />
-  </div>
+
 <br>
 
 <div align="center">
