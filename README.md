@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://media.giphy.com/media/26tn33aiTi1jbp6x2/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="600" />
   <h1>Merhaba, Ben Erkan! 👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer+(.NET);Open+Source+Enthusiast" alt="Typing SVG" />
