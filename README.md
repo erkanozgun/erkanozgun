@@ -3,7 +3,9 @@
   
   <h1>Merhaba, Ben Erkan! 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer+(.NET);Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer+(.NET);Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -52,7 +54,7 @@
 
 <div align="center">
   <p>🤝 <b>Benimle İletişime Geçin</b></p>
-  <a href="erkanzgun@gmail.com">
+  <a href="mailto:seninemailadresin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
