@@ -40,14 +40,14 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=erkanzgn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="erkanzgn stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erkanozgun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="erkanozgun stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanzgn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,scss,javascript" height="180" alt="erkanzgn languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanozgun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,scss,javascript" height="180" alt="erkanozgun languages" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkanzgn&theme=tokyonight&hide_border=true&background=0d1117" alt="erkanzgn streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkanozgun&theme=tokyonight&hide_border=true&background=0d1117" alt="erkanozgun streak" />
 </div>
 
 ---
