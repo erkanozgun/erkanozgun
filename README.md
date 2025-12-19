@@ -16,11 +16,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=erkanozgun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="erkanozgun trophies" />
-  </a>
-</div>
 <br>
 
 <div align="center">
@@ -63,6 +58,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=erkanozgun&label=Profil+Goruntulenmesi&color=0e75b6&style=for-the-badge" alt="erkanozgun" />
 </div>
