@@ -4,18 +4,38 @@
   <h1>Merhaba, ben Erkan 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;.NET+Backend+Developer;Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;.NET+Backend+Developer;Cybersecurity+Enthusiast;Clean+Architecture+%26+CQRS" alt="Typing SVG" />
   </a>
 
-  <p><i>Temiz kod, ölçeklenebilir sistemler ve iyi kahve ☕</i></p>
+  <p><i>Güvenli kod, ölçeklenebilir sistemler ve iyi kahve ☕</i></p>
 </div>
 
 ---
 
-### 🛠️ Teknolojiler
+### 🛠️ Geliştirme
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,postgres,git,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,tailwind,python,postgres,redis,docker,git,postman" />
+</div>
+
+### 🔐 Siber Güvenlik
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+</div>
+
+<div align="center">
+  
+  `Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `OWASP Top 10` · `Pentesting` · `CVE Research`
+  
+</div>
+
+### 🏛️ Mimari & Pattern'ler
+
+<div align="center">
+  
+  `Clean Architecture` · `CQRS` · `MediatR` · `Entity Framework Core` · `SignalR` · `Serilog`
+  
 </div>
 
 ---
