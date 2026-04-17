@@ -1,41 +1,17 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
-  
   <h1>Merhaba, ben Erkan 👋</h1>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;.NET+Backend+Developer;Cybersecurity+Enthusiast;Clean+Architecture+%26+CQRS" alt="Typing SVG" />
-  </a>
-
-  <p><i>Güvenli kod, ölçeklenebilir sistemler ve iyi kahve ☕</i></p>
+  <p>
+    Bilgisayar Mühendisliği öğrencisi · .NET Backend Developer · Cybersecurity
+  </p>
 </div>
 
 ---
 
-### 🛠️ Geliştirme
+### 🛠️ Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,tailwind,python,postgres,redis,docker,git,postman" />
-</div>
-
-### 🔐 Siber Güvenlik
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
-</div>
-
-<div align="center">
-  
-  `Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `OWASP Top 10` · `Pentesting` · `CVE Research`
-  
-</div>
-
-### 🏛️ Mimari & Pattern'ler
-
-<div align="center">
-  
-  `Clean Architecture` · `CQRS` · `MediatR` · `Entity Framework Core` · `SignalR` · `Serilog`
-  
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,postgres,redis,docker,kali,git" />
 </div>
 
 ---
@@ -49,9 +25,9 @@
 
 <div align="center">
   <a href="mailto:erkanzgun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/erkanozgun/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
